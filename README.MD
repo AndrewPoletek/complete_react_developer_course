@@ -8,6 +8,9 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 Below ill put a my diary from training units.
 
+### 2023-11-20
+1. Back after break and finish Reducers
+
 ### 2023-09-15
 1. Im Start Sekcja 13: Reducers
 2. Im change state into reducer in User Context
