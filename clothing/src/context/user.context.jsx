@@ -1,5 +1,4 @@
-import { useEffect, useReducer } from "react";
-import { createContext } from "react";
+import { useEffect, useReducer, createContext } from "react";
 import { onAuthStateChangedListener } from "../utils/firebase/firebase.utils";
 import { createUserDocumentFromAuth } from "../utils/firebase/firebase.utils";
 
@@ -11,7 +10,7 @@ export const UserContext = createContext({
 })
 
 
-export const USER_ACTION_TYPES ={
+export const USER_ACTION_TYPES = {
     SET_CURRENT_USER: 'SET_CURRENT_USER',
 }
 

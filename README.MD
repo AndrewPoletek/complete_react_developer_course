@@ -8,6 +8,12 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 Below ill put a my diary from training units.
 
+### 2023-11-21
+1. Start section 14: Redux
+2. Im watch video with theory about differences between context api and redux data flow
+3. Im install redux into clothing application
+4. im install redux instead a user context
+
 ### 2023-11-20
 1. Back after break and finish Reducers
 
