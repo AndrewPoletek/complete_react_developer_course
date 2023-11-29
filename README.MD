@@ -8,6 +8,10 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 Below ill put a my diary from training units.
 
+### 2023-11-29
+1. Im add a redux into categories instead of context API
+2. Im add optimize code in categories fetch data
+
 ### 2023-11-23
 1. Im add user selector
 2. At this moment im decided to create new app for better training when ill deploy skills from this course Link: https://github.com/AndrewPoletek/firebase-store
