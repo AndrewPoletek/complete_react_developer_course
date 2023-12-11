@@ -8,6 +8,9 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 Below ill put a my diary from training units.
 
+### 2023-12-11
+1. Im write my first redux logger, and learn about middlewares inside redux
+
 ### 2023-11-29
 1. Im add a redux into categories instead of context API
 2. Im add optimize code in categories fetch data
