@@ -8,6 +8,9 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 Below ill put a my diary from training units.
 
+### 2023-12-12
+1. Im learn about reselect library how it works
+
 ### 2023-12-11
 1. Im write my first redux logger, and learn about middlewares inside redux
 
